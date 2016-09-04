@@ -2,7 +2,7 @@ $(document).ready(function() {
   var x = 0,
       y = 0;
       z = 0;
-  var words2 = ["Anabelle", "Eu te amo", "I Love You","Te dua", "Ana behibek", "Yes kez sirumen", "M'bi fe", "Ya tabe kahayu", "Obicham te", "Ngo oiy ney a", "T'estimo", "Ne mohotatse",
+  var words2 = ["Anabelle <3", "Eu te amo", "I Love You","Te dua", "Ana behibek", "Yes kez sirumen", "M'bi fe", "Ya tabe kahayu", "Obicham te", "Ngo oiy ney a", "T'estimo", "Ne mohotatse",
                  "Ndimakukonda", "Mi aime jou", "Volim te", "Miluji te", "Jeg Elsker Dig", "Ik hou van jou", "Mi amas vin", "Ma armastan sind", "Ewedishalehu",
                  "Eg elski teg", "Doset daram", "Mahal kita", "Je t'aime", "Ta gra agam ort", "Mina rakastan sinua", "Mikvarhar", "Ich liebe dich", "S'agapo",
                  "Palangga ko ikaw", "Aloha wau ia oi", "Ani ohev otah", "Hum Tumhe Pyar Karte hai", "Kuv hlub koj", "Nu' umi unangwa'ta", "Szeretlek", "Eg elska tig",
